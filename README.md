@@ -2,4 +2,6 @@
 
 ## Example
 
-' python oeiswall.py --n 45 --namColor orange
+'''
+python oeiswall.py --n 45 --namColor orange
+'''
