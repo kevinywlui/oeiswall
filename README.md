@@ -3,6 +3,6 @@
 ## Example
 
 ```
-python oeiswall.py --n 45 --namColor orange
+python oeiswall.py --n 27 --namColor #63b8ff 
 ```
-produces <https://imgur.com/2ouMe1A>
+produces <https://imgur.com/Z183Pau>
